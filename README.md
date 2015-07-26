@@ -7,4 +7,4 @@ git branch dev
 git checkout dev
 git checkout -b dev
 
- Create a new branch is quick & simple.
+ Create a new branch is quick and  simple.
